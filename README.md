@@ -1,1 +1,1 @@
-# Knight-On-Rescue
+# Knight On Rescue
